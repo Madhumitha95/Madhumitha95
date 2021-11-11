@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Madhumitha95
+- I'm Currently Working in QlikView.
+- 👀 I’m interested in ETL Tools.
+- 🌱 I’m currently learning Power BI,Azure
+- 📫 How to reach me via Email.
+
+<!---
+Madhumitha95/Madhumitha95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
